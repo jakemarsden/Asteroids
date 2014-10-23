@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Asteroids</string>
+
+    <string name="play_game">Play Game</string>
+    <string name="exit">Exit</string>
+
+    <string name="latest_score">Latest score: %1$d</string>
+    <string name="highest_score">Highest score: %1$d</string>
+
+    <string name="exit_prompt">Are you sure you wish to exit the game? If you do, your score will not be recorded.
+    </string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="how_to_play">How to play</string>
+    <string name="help_message">Move your ship and shoot the asteroids to stay alive!\n\nThe more asteroids you shoot,
+        the higher your score will get, but be careful because larger asteroids can split into smaller ones.\n\nTouch
+        the right-hand half of the screen to rotate your ship clockwise and the left-hand half rotate
+        anti-clockwise.\n\nThe arrow makes your ship accelerate in the direction it\'s pointing. Be careful with
+        this!\n\nThe fire button shoots a projectile in the direction you\'re pointing.\n\nUse the button at the top of
+        the screen to mute and un-mute the game.
+    </string>
+</resources>
