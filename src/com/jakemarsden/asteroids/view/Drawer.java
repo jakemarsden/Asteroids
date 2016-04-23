@@ -4,6 +4,8 @@ import android.graphics.Canvas;
 
 /*
  * Used to draw a game object of type T on the canvas
+ *
+ * @author jakemarsden
  */
 public interface Drawer<T> {
 

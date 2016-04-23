@@ -7,9 +7,9 @@ import android.graphics.RectF;
 import android.view.MotionEvent;
 
 /**
- * Created by OEM on 15/04/14.
- * <p/>
  * Represents a control the user can use to control the game
+ *
+ * @author jakemarsden
  */
 public abstract class Control {
 

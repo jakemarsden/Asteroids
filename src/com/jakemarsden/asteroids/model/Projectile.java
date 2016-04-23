@@ -3,10 +3,10 @@ package com.jakemarsden.asteroids.model;
 import android.graphics.PointF;
 
 /**
- * Created by OEM on 27/03/14.
- * <p/>
  * This class represents an object the user is able to fire in order to destroy asteroids. It defines only the object's
  * state and behaviour and says nothing about its appearance to the user.
+ *
+ * @author jakemarsden
  */
 public class Projectile {
 

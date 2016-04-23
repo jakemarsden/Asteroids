@@ -4,6 +4,9 @@ import android.graphics.Canvas;
 import android.graphics.Paint;
 import com.jakemarsden.asteroids.model.Projectile;
 
+/**
+ * @author jakemarsden
+ */
 public class ProjectileDrawer implements Drawer<Projectile> {
 
     private final Paint fillPaint;

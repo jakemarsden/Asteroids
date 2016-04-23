@@ -4,6 +4,9 @@ import android.graphics.Canvas;
 import android.graphics.Paint;
 import com.jakemarsden.asteroids.model.Asteroid;
 
+/**
+ * @author jakemarsden
+ */
 public class AsteroidDrawer implements Drawer<Asteroid> {
 
     private final Paint paint;

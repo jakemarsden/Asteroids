@@ -3,6 +3,9 @@ package com.jakemarsden.asteroids.model;
 import android.graphics.RectF;
 import com.jakemarsden.asteroids.InputEvent;
 
+/**
+ * @author jakemarsden
+ */
 public class AIPlayer extends Player {
 
     private static final long MIN_PROJECTILE_PERIOD = 300;

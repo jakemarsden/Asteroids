@@ -8,10 +8,10 @@ import java.util.Collection;
 import java.util.List;
 
 /**
- * Created by marsdenj10 on 4/04/14.
- * <p/>
  * Represents a closed Polygon. The 'shape' of a Polygon and its 'position' are stored separately. A Polygon will have
  * at least 3 vertexes at all times and the user has no control of a Polygon's shape once it has been created.
+ *
+ * @author jakemarsden
  */
 public class Polygon {
 

@@ -7,9 +7,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by OEM on 5/04/14.
- * <p/>
  * A static class to generate random Polygons.
+ *
+ * @author jakemarsden
  */
 public class RandomPolygonGenerator {
 

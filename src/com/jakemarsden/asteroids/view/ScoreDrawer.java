@@ -4,6 +4,9 @@ import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.graphics.Rect;
 
+/**
+ * @author jakemarsden
+ */
 public class ScoreDrawer implements Drawer<Integer> {
 
     private static final float PADDING_TOP = 15;

@@ -5,10 +5,10 @@ import android.graphics.RectF;
 import jake.utils.Random;
 
 /**
- * Created by OEM on 27/03/14.
- * <p/>
  * This class represents an object which will spawn randomly for the user to try to avoid and destroy. It defines only
  * the object's state and behaviour and says nothing about its appearance to the user.
+ *
+ * @author jakemarsden
  */
 public class Asteroid {
 

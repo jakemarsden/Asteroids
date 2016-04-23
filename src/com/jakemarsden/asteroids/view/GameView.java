@@ -22,12 +22,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by OEM on 27/03/14.
- * <p/>
  * This class acts as an interface between the user and the application. It defines how the game's state should be
  * displayed to the user and how the game should receive input from the user. When registered with a GameLoop, this
  * class will periodically redraw game objects to the screen and any input from the user will be delegated to any attached
  * InputListeners.
+ *
+ * @author jakemarsden
  */
 public class GameView extends SurfaceView implements DrawListener {
 

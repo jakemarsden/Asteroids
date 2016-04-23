@@ -7,8 +7,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by OEM on 27/03/14.
- * <p/>
  * This class is used to periodically update and redraw the game through the use of UpdateListeners and DrawListeners.
  * Typically, this class is started from its own Thread using:
  * <p/>
@@ -19,6 +17,8 @@ import java.util.List;
  * <p/>
  * GameLoop gameLoop;
  * gameLoop.run();
+ *
+ * @author jakemarsden
  */
 public class GameLoop implements Runnable {
 

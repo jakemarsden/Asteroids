@@ -5,6 +5,9 @@ import android.graphics.*;
 import com.jakemarsden.asteroids.R;
 import com.jakemarsden.asteroids.model.Player;
 
+/**
+ * @author jakemarsden
+ */
 public class PlayerDrawer implements Drawer<Player> {
 
     /*

@@ -8,10 +8,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by OEM on 27/03/14.
- * <p/>
  * This class represents an object controlled by the user which they can use to destroy and evade asteroids. It defines
  * only the object's state and behaviour and says nothing about its appearance to the user.
+ *
+ * @author jakemarsden
  */
 public class Player {
 

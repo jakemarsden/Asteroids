@@ -6,9 +6,9 @@ import com.jakemarsden.asteroids.InputEvent;
 import com.jakemarsden.asteroids.R;
 
 /**
- * Created by OEM on 10/04/14.
- * <p/>
  * Used to play audio during the game. This is basically just a wrapper for Android's SoundPool class.
+ *
+ * @author jakemarsden
  */
 public class AudioController {
 

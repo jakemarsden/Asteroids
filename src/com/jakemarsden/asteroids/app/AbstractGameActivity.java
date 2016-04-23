@@ -10,8 +10,6 @@ import com.jakemarsden.asteroids.model.GameWorld;
 import com.jakemarsden.asteroids.view.GameView;
 
 /**
- * Created by OEM on 17/04/14.
- * <p/>
  * Represents an instance of a game of Asteroids. Subclasses must customize the game by overriding the methods
  * createGameWorld() and createGameLoop(). For a GameView to be recognised by this class, it must have been
  * given the view ID 'R.id.gameView' and added be a part of the view hierarchy set with setContentView(). That way,
@@ -20,6 +18,8 @@ import com.jakemarsden.asteroids.view.GameView;
  * Fundamentally, a game can be split into 3 components: A GameWorld to define the game's state and behaviour; a
  * GameView to define how the user can interact with the game (how the game is displayed on screen and how input is
  * retrieved); and a GameLoop to tell the GameWorld when to update and the GameView when to redraw.
+ *
+ * @author jakemarsden
  */
 public abstract class AbstractGameActivity extends Activity {
 

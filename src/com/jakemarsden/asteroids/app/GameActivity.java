@@ -11,9 +11,9 @@ import com.jakemarsden.asteroids.R;
 import com.jakemarsden.asteroids.model.GameWorld;
 
 /**
- * Created by OEM on 27/03/14.
- * <p/>
  * The actual game for the user to play.
+ *
+ * @author jakemarsden
  */
 public class GameActivity extends AbstractGameActivity {
 

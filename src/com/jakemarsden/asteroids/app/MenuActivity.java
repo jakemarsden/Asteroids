@@ -11,10 +11,10 @@ import com.jakemarsden.asteroids.R;
 import com.jakemarsden.asteroids.model.GameWorld;
 
 /**
- * Created by marsdenj10 on 11/04/14.
- * <p/>
  * The game's menu. This contains buttons for starting a game, shows information about past scores and shows a
  * computer-controlled character playing the game in the background.
+ *
+ * @author jakemarsden
  */
 public class MenuActivity extends AbstractGameActivity {
 

@@ -12,12 +12,12 @@ import java.util.List;
 import java.util.concurrent.ArrayBlockingQueue;
 
 /**
- * Created by OEM on 27/03/14.
- * <p/>
  * Defines the state and behaviour of the game. The game contains 3 types
  * of game objects: the Player, Asteroids and Projectiles. The state of these
  * objects is updated every time the GameLoop calls the UpdateListener.onGameUpdate()
  * method defined by this class.
+ *
+ * @author jakemarsden
  */
 public class GameWorld implements InputListener, UpdateListener {
 

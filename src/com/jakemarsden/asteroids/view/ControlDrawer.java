@@ -2,6 +2,9 @@ package com.jakemarsden.asteroids.view;
 
 import android.graphics.Canvas;
 
+/**
+ * @author jakemarsden
+ */
 public class ControlDrawer implements Drawer<Control> {
 
     public ControlDrawer() {

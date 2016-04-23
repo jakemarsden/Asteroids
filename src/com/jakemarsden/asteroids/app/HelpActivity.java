@@ -6,9 +6,9 @@ import android.view.Window;
 import com.jakemarsden.asteroids.R;
 
 /**
- * Created by OEM on 25/04/14.
- * <p/>
  * Displays information about how to play the game
+ *
+ * @author jakemarsden
  */
 public class HelpActivity extends Activity {
 

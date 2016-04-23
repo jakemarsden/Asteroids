@@ -1,9 +1,9 @@
 package com.jakemarsden.asteroids;
 
 /**
- * Created by OEM on 29/03/14.
- * <p/>
  * Represents a user interaction with the game.
+ *
+ * @author jakemarsden
  */
 public enum InputEvent {
 
