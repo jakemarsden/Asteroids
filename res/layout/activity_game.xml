@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<com.marsden.asteroids.view.GameView
+<com.jakemarsden.asteroids.view.GameView
         xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:asteroids="http://schemas.android.com/apk/res/com.marsden.asteroids"
         android:id="@id/gameView"
