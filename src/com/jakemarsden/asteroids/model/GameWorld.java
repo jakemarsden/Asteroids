@@ -5,7 +5,7 @@ import android.graphics.RectF;
 import com.jakemarsden.asteroids.InputEvent;
 import com.jakemarsden.asteroids.listener.InputListener;
 import com.jakemarsden.asteroids.listener.UpdateListener;
-import jake.utils.Random;
+import com.jakemarsden.asteroids.util.Random;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -90,7 +90,7 @@ public class GameWorld implements InputListener, UpdateListener {
      *          this after the game has started.
      */
     public GameWorld(Context context, long seed, boolean aiControlled, boolean allowSound) {
-        randomGenerator = new Random(seed);
+        randomGenerator = Random.fromSeed(seed);
         usingAIPlayer = aiControlled;
         audioController = new AudioController(context, 5, !allowSound);
     }

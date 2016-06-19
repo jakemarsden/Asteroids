@@ -1,7 +1,7 @@
 package com.jakemarsden.asteroids.model;
 
 import android.graphics.PointF;
-import jake.utils.Random;
+import com.jakemarsden.asteroids.util.Random;
 
 import java.util.ArrayList;
 import java.util.List;

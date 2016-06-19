@@ -2,7 +2,7 @@ package com.jakemarsden.asteroids.model;
 
 import android.graphics.PointF;
 import android.graphics.RectF;
-import jake.utils.Random;
+import com.jakemarsden.asteroids.util.Random;
 
 /**
  * This class represents an object which will spawn randomly for the user to try to avoid and destroy. It defines only
